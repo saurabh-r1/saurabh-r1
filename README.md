@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg?w=1140&ssl=1)
+![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
